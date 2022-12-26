@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cd4ed21.css",
+    "main.js": "/static/js/main.00ab6230.js",
+    "static/media/Two.png": "/static/media/Two.406a793349f3d9f3d05d.png",
+    "static/media/Header_main.png": "/static/media/Header_main.848370de32fe15cd450b.png",
+    "static/media/Tees.png": "/static/media/Tees.8401152c071062b5d34c.png",
+    "static/media/Hoodies.png": "/static/media/Hoodies.1532b6e188fad2aaaa1c.png",
+    "static/media/Phone.png": "/static/media/Phone.94abbeb86511b346787e.png",
+    "static/media/One.png": "/static/media/One.a76847d81932d4285b91.png",
+    "static/media/Coats.png": "/static/media/Coats.3ec00b3f30dcb0cf4b60.png",
+    "static/media/Shopify.png": "/static/media/Shopify.c76a60ac1560db4e6cee.png",
+    "static/media/Amazon.png": "/static/media/Amazon.f422738882da13a98b60.png",
+    "static/media/HM.png": "/static/media/HM.e8b0f1ac66cbe172a707.png",
+    "index.html": "/index.html",
+    "main.6cd4ed21.css.map": "/static/css/main.6cd4ed21.css.map",
+    "main.00ab6230.js.map": "/static/js/main.00ab6230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd4ed21.css",
+    "static/js/main.00ab6230.js"
+  ]
+}
